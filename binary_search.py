@@ -29,4 +29,4 @@ def binary_search(list, item):
 my_list = [1, 3, 5, 7, 9]
 
 print(binary_search(my_list, 7)) # ответ - 3
-print(binary_search(my_list, 2)) # ответ - Null (позиция отсутствует
+print(binary_search(my_list, 2)) # ответ - Null (позиция отсутствует)
