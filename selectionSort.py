@@ -21,3 +21,5 @@ def selectionSort(arr): # сортирует массив
   return newArr
   
 print(selectionSort([5, 3, 6, 2, 10]))
+
+'''Ответ: [2, 3, 5, 6, 10]'''
