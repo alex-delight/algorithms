@@ -20,4 +20,4 @@ def selectionSort(arr): # сортирует массив
     newArr.append(arr.pop(smallest))
   return newArr
   
-print selectionSort([S, З, 6, 2, 10])
+print(selectionSort([S, З, 6, 2, 10]))
