@@ -2,7 +2,7 @@
 
 '''Функция для поиска наименьшего элемента массива:'''
 
-def find Smallest(a r r):
+def findSmallest(arr):
   smallest = arr[0] # для хранения наименьшего значения
   smallest_index = 0 # для хранения индекса наименьшего значения
   for i in range(l, len(arr)):
@@ -20,4 +20,4 @@ def selectionSort(arr): # сортирует массив
     newArr.append(arr.pop(smallest))
   return newArr
   
-print(selectionSort([S, З, 6, 2, 10]))
+print(selectionSort([5, 3, 6, 2, 10]))
